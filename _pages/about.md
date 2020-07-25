@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-image: IMG_3588_01-01.jpg
+image: IMG_3588-01-01.jpg
 permalink: /about/
 ---
 
